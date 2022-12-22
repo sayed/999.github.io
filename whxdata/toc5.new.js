@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"زيارة شي للسعودية","type":"item","tilePath":"","description":"","url":"الصينية_الخليجية/زيارة_شي_للسعودية.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

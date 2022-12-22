@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="الصين" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="مقدمة.htm">
+    
+    <topic>
+      مقدمة.htm
+    </topic>
+    
+    <topic>
+      الأوروبية\new_topic.htm
+    </topic>
+    
+    <topic>
+      الأوروبية\العلاقات_الاقتصادية.htm
+    </topic>
+    
+    <topic>
+      العلاقات_الرسوية\رصد_كامل.htm
+    </topic>
+    
+    <topic>
+      العلاقات_الصينية_الأمريكية\نبذة.htm
+    </topic>
+    
+    <topic>
+      العلاقات_الصينية_الأمريكية\جوه_الملف_الاول.htm
+    </topic>
+    
+    <topic>
+      الصينية_الخليجية\زيارة_شي_للسعودية.htm
+    </topic>
+    
+    <topic>
+      الصينية_الاماراتي\شراكة_تجارية.htm
+    </topic>
+    
+    <topic>
+      ملف_الصين_وتايوان\تكون_مُخرجات_هذا_الملف_ذات_صلة_بالموضوع.htm
+    </topic>
+    
+    <topic>
+      الصين_إيران\الصين_وإيران.htm
+    </topic>
+    
+    <topic>
+      المصادر\المصادر.htm
+    </topic>
+    
+    <topic>
+      متطلبات_القاعدة\المتطلبات_الفنية.htm
+    </topic>
+    
+    <topic>
+      new_topic.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        ar_AE
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>

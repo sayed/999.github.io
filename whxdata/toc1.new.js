@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"العلاقات العسكرية","type":"item","tilePath":"","description":"","url":"الأوروبية/new_topic.htm"},{"name":"العلاقات الاقتصادية","type":"item","tilePath":"","description":"","url":"الأوروبية/العلاقات_الاقتصادية.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

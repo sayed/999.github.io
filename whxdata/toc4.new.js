@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"تم تسليم ملف وورد","type":"item","tilePath":"","description":"","url":"العلاقات_الصينية_الأمريكية/جوه_الملف_الاول.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

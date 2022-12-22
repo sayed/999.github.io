@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"New Topic","type":"item","tilePath":"","description":"","url":"new_topic.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

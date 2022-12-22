@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"تكون مُخرجات هذا الملف ذات صلة بالموضوع","type":"item","tilePath":"","description":"","url":"ملف_الصين_وتايوان/تكون_مُخرجات_هذا_الملف_ذات_صلة_بالموضوع.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
